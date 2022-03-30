@@ -10,5 +10,8 @@ public class TestPractice1 {
 		System.out.println("division of a and b is"+b/a);
 
 	}
-
+public static int addition(int x, int y)
+{
+	return(x+y);
+}
 }
